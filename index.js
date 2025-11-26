@@ -35,7 +35,7 @@ function copyDir(src, dest) {
 
 console.log("========================================");
 console.log("   Created by: Jay Rathore");
-console.log("========================================");
+console.log("========================================\n");
 
 console.log(" Creating Express + TypeScript backend...");
 
