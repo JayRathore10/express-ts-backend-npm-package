@@ -1,6 +1,6 @@
 {
   "name": "create-express-ts-backend",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Generate a complete Express + TypeScript backend project.",
   "bin": {
     "create-express-ts-backend": "index.js"
