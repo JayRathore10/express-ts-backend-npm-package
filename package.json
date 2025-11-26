@@ -1,0 +1,21 @@
+{
+  "name": "create-express-ts-backend",
+  "version": "1.0.1",
+  "description": "Generate a complete Express + TypeScript backend project.",
+  "bin": {
+    "create-express-ts-backend": "index.js"
+  },
+  "type": "module",
+  "files": [
+    "index.js",
+    "templates"
+  ],
+  "keywords": [
+    "express",
+    "typescript",
+    "backend",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
